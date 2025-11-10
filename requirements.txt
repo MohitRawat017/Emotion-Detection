@@ -1,0 +1,7 @@
+#  Preprocessing 
+opencv-python
+mtcnn # Face detection
+numpy 
+scikit-learn 
+albumentations # Data augmentation
+tqdm # Progress bars
