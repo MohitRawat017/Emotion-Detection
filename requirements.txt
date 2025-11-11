@@ -5,3 +5,15 @@ numpy
 scikit-learn 
 albumentations # Data augmentation
 tqdm # Progress bars
+tensorflow
+
+
+# Training 
+torch 
+torchvision
+tqdm
+matplotlib
+seaborn
+scikit-learn
+pillow 
+pandas
